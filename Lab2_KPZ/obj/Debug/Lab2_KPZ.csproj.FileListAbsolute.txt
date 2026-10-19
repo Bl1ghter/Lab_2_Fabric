@@ -1,0 +1,10 @@
+D:\Visual studio\Lab2_KPZ\Lab2_KPZ\bin\Debug\Lab2_KPZ.exe.config
+D:\Visual studio\Lab2_KPZ\Lab2_KPZ\bin\Debug\Lab2_KPZ.exe
+D:\Visual studio\Lab2_KPZ\Lab2_KPZ\bin\Debug\Lab2_KPZ.pdb
+D:\Visual studio\Lab2_KPZ\Lab2_KPZ\obj\Debug\Lab2_KPZ.csproj.AssemblyReference.cache
+D:\Visual studio\Lab2_KPZ\Lab2_KPZ\obj\Debug\Lab2_KPZ.Form1.resources
+D:\Visual studio\Lab2_KPZ\Lab2_KPZ\obj\Debug\Lab2_KPZ.Properties.Resources.resources
+D:\Visual studio\Lab2_KPZ\Lab2_KPZ\obj\Debug\Lab2_KPZ.csproj.GenerateResource.cache
+D:\Visual studio\Lab2_KPZ\Lab2_KPZ\obj\Debug\Lab2_KPZ.csproj.CoreCompileInputs.cache
+D:\Visual studio\Lab2_KPZ\Lab2_KPZ\obj\Debug\Lab2_KPZ.exe
+D:\Visual studio\Lab2_KPZ\Lab2_KPZ\obj\Debug\Lab2_KPZ.pdb
